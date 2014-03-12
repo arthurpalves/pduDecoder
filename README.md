@@ -7,8 +7,7 @@ Bash PDU Decoder
 WHAT IS THIS?
 =====================================================
 
-		This program decodes a Hexadecimal PDU message and generates
-		readable SMS message along with metadata
+This program decodes a Hexadecimal PDU message and generates readable SMS message along with metadata.
 
 
 USAGE
