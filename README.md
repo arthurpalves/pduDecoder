@@ -38,7 +38,7 @@ IMPORTANT FILES
 CREATED IN
 =====================================================
 
- 		Jun 27, 2012
-		Arthur Alves < arthuralves.p@gmail.com >
-		Alves Development.
-		Alagoas, Brazil.
+Jun 27, 2012
+Arthur Alves < arthuralves.p@gmail.com >
+Alves Development.
+Alagoas, Brazil.
