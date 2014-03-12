@@ -1,7 +1,7 @@
 bash-pduDecoder
 ===============
 
-Bash PDU Decoder
+Convert PDU code to human readable messages
 
 
 WHAT IS THIS?
